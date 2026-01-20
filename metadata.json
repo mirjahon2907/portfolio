@@ -1,0 +1,9 @@
+
+{
+  "name": "AI-Powered Professional Portfolio",
+  "description": "A high-end, interactive resume and portfolio website featuring an AI career assistant powered by Gemini to answer recruiter questions in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
